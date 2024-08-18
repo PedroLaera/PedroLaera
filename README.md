@@ -2,11 +2,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2B66FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Laera;I'm+19+years+old;I+am+from+Roncador,+PR;I+study+analysis+and+systems+development+at+Integrado;)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroLaera&show_icons=true&count_private=true&hide_border=true&title_color=2B66FF&icon_color=0047FF&text_color=999999&bg_color=0d1117" alt="Pedro Laera github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLaera&layout=compact&hide_border=true&title_color=0370E8&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroLaera&bg_color=000000&color=A0CDFF&line=0047FF&point=A0CDFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
