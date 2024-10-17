@@ -1,5 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0047FF&height=120&section=header"/>
-  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2B66FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Laera;I'm+19+years+old;I+am+from+Roncador,+PR;I+study+analysis+and+systems+development+at+Integrado;)](https://git.io/typing-svg)
 
 
