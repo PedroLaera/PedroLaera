@@ -17,7 +17,6 @@
 - 🔧 VSCode, Intellij, Figma, Insomnia, Github and DBeaver.
 - ✨ Learning is continuous and there will always be a next level
 
-![GitHub Globe](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=dracula)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0047FF&height=120&section=footer"/>
 
