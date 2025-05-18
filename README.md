@@ -13,7 +13,7 @@
 ### Hey! Welcome to my profile! How is it going? 👋
 
 - 🚀 I am currently studying in [Integrado](https://www.grupointegrado.br)
-- 💻 MySql, Java, React, PHP, Typescript, JavaScript, HTML, CSS, Sass, Boostrap.
+- 💻 MySql,PL/SQL ,Java, React, PHP, Typescript, JavaScript, HTML, CSS, Sass, Boostrap.
 - 🔧 VSCode, Intellij, Figma, Insomnia, Github and DBeaver.
 - ✨ Learning is continuous and there will always be a next level
 
