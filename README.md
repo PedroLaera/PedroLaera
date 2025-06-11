@@ -10,7 +10,7 @@
 
 <br/>
 
-### Hey! Welcome to my profile! How is it going? 👋
+### Hey! Welcome to my profile! How is it going?👋
 
 - 🚀 I am currently studying in [Integrado](https://www.grupointegrado.br).
 - 💻 MySql,PL/SQL ,Java, React, PHP, Typescript, JavaScript.
