@@ -12,9 +12,9 @@
 
 ### Hey! Welcome to my profile! How is it going?👋
 
-- 🚀 I am currently studying in [Integrado](https://www.grupointegrado.br).
-- 💻 MySql,PL/SQL ,Java, React, PHP, Typescript, JavaScript.
-- ✨ Learning is continuous and there will always be a next level.
+- 🚀 I am currently studying in [Integrado](https://www.grupointegrado.br)
+- 💻 MySql,PL/SQL ,Java, React, PHP, Typescript, JavaScript
+- ✨ Learning is continuous and there will always be a next level
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0047FF&height=120&section=footer"/>
 
