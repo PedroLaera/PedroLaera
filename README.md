@@ -12,11 +12,11 @@
 
 ### Hey! Welcome to my profile! How is it going?👋
 
-✨ I am currently studying at [Integrado](https://www.grupointegrado.br)
-✨ Currently working at Kazza Digital, a software house focused on innovative and scalable digital solutions.
-✨ We work with technologies such as PHP, Java, JavaScript, Node.js, React, Next.js, and more.
-✨ Skilled in Java, MySQL, Docker, React, PHP, TypeScript, and JavaScript.
-✨ Learning is continuous — there will always be a next level to reach.
+- ✨ I am currently studying at [Integrado](https://www.grupointegrado.br)
+- ✨ Currently working at Kazza Digital, a software house focused on innovative and scalable digital solutions.
+- ✨ We work with technologies such as PHP, Java, JavaScript, Node.js, React, Next.js, and more.
+- ✨ Skilled in Java, MySQL, Docker, React, PHP, TypeScript, and JavaScript.
+- ✨ Learning is continuous — there will always be a next level to reach.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0047FF&height=120&section=footer"/>
 
