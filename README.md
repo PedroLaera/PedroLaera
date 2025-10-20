@@ -12,6 +12,7 @@
 
 ### Hey! Welcome to my profile! How is it going?👋
 
+
 - ✨ I am currently studying at [Integrado](https://www.grupointegrado.br)
 - ✨ Currently working at Kazza Digital, a software house focused on innovative and scalable digital solutions.
 - ✨ We work with technologies such as PHP, Java, JavaScript, Node.js, React, Next.js, and more.
