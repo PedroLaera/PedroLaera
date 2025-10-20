@@ -15,7 +15,7 @@
 <br/>
 
 - ✨ I am currently studying at [Integrado](https://www.grupointegrado.br)
-- ✨ Currently working at Kazza Digital, a software house focused on innovative and scalable digital solutions.
+- ✨ Currently working at [Kazza Digital](https://www.kazzadigital.com.br/), a software house focused on innovative and scalable digital solutions.
 - ✨ We work with technologies such as PHP, Java, JavaScript, Node.js, React, Next.js, and more.
 - ✨ Skilled in Java, MySQL, Docker, React, PHP, TypeScript, and JavaScript.
 - ✨ Learning is continuous — there will always be a next level to reach.
